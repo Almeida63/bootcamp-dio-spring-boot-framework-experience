@@ -1,0 +1,10 @@
+package br.com.dio.dominio;
+
+public class Snippet {
+	@Override
+		public double calcularXP() {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+}
+
